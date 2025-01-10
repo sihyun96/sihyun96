@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/html & css-20232a.svg?style=for-the-badge&logo=html&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/
 JavaScript-20232a.svg?style=for-the-badge&logo=
 JavaScript&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/jQuery-20232a.svg?style=for-the-badge&logo=jQuery&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/jQuery-20232a.svg?style=for-the-badge&logo=jQuery&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/jS-20232a.svg?style=for-the-badge&logo=javaScript&logoColor=61DAFB" />  
  ## Tools
   
 

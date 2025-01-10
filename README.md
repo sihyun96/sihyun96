@@ -1,6 +1,12 @@
-## Lee si hyun 👋
+## Lee si hyun 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://github.com/sihyun96/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:sihyun9627@gmail.com)
+ 👋 Hi there! I'm publisher & designer
+
+ Skills
+<img src="https://img.shields.io/badge/html & css-20232a.svg?style=for-the-badge&logo=html&logoColor=61DAFB" />
+ Tools
+  
 
  <div align=center>
 	

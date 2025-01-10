@@ -5,7 +5,7 @@
  👋 Hi there! I'm publisher & designer
 
  ## Skills
-<img src="https://img.shields.io/badge/HTML5-20232a.svg?style=for-the-badge&logo=HTML5&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/CSS3-008DDA.svg?style=for-the-badge&logo=CSS3&logoColor=ffffff" /> <img src="https://img.shields.io/badge/jQuery-FC819E.svg?style=for-the-badge&logo=jQuery&logoColor=ffffff" /> <img src="https://img.shields.io/badge/jS-0D7C66.svg?style=for-the-badge&logo=javaScript&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/GSAP-FFD35A.svg?style=for-the-badge&logo=GSAP&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React-EE4E4E.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/
+<img src="https://img.shields.io/badge/HTML5-20232a.svg?style=for-the-badge&logo=HTML5&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/CSS3-008DDA.svg?style=for-the-badge&logo=CSS3&logoColor=ffffff" /> <img src="https://img.shields.io/badge/jQuery-FC819E.svg?style=for-the-badge&logo=jQuery&logoColor=ffffff" /> <img src="https://img.shields.io/badge/jS-0D7C66.svg?style=for-the-badge&logo=javaScript&logoColor=141E46" /> <img src="https://img.shields.io/badge/GSAP-FFD35A.svg?style=for-the-badge&logo=GSAP&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React-EE4E4E.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/
 Lottie Animation-874CCC.svg?style=for-the-badge&logo=lottie&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/UI design-59D5E0.svg?style=for-the-badge&logo=UI&logoColor=ffffff" />
  ## Tools
   

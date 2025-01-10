@@ -3,9 +3,10 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:sihyun9627@gmail.com)
  👋 Hi there! I'm publisher & designer
 
- Skills
+ ## Skills
 <img src="https://img.shields.io/badge/html & css-20232a.svg?style=for-the-badge&logo=html&logoColor=61DAFB" />
- Tools
+<img src="https://img.shields.io/badge/JS-20232a.svg?style=for-the-badge&logo=jacascript&logoColor=61DAFB" />
+ ## Tools
   
 
  <div align=center>

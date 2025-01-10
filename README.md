@@ -4,7 +4,8 @@
  👋 Hi there! I'm publisher & designer
 
  ## Skills
-<img src="https://img.shields.io/badge/html & css-20232a.svg?style=for-the-badge&logo=html&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/jQuery-20232a.svg?style=for-the-badge&logo=jQuery&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/jS-20232a.svg?style=for-the-badge&logo=javaScript&logoColor=61DAFB" />  
+<img src="https://img.shields.io/badge/html & css-20232a.svg?style=for-the-badge&logo=html&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/jQuery-20232a.svg?style=for-the-badge&logo=jQuery&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/jS-20232a.svg?style=for-the-badge&logo=javaScript&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/GSAP-20232a.svg?style=for-the-badge&logo=GSAP&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/
+Lottie Animation-20232a.svg?style=for-the-badge&logo=lottie&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/UI design-20232a.svg?style=for-the-badge&logo=UI&logoColor=61DAFB" />
  ## Tools
   
 
